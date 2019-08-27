@@ -1,2 +1,2 @@
 # hello-world
-tut using guides 
+tut using the built in guides 
